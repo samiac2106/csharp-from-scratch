@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.exe
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.deps.json
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.runtimeconfig.json
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.dll
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.pdb
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.sourcelink.json
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.dll
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\refint\bucles_polimorfismo_excepciones.dll
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.pdb
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Mis proyectos\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\ref\bucles_polimorfismo_excepciones.dll
